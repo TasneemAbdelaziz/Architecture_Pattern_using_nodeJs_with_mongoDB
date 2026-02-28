@@ -1,4 +1,5 @@
-MVC File Structure:
+## MVC File Structure
+```
 MVC/
 │
 ├── models/
@@ -16,8 +17,12 @@ MVC/
 ├── app.js
 ├── package.json
 └── package-lock.json
+```
 
-MVP File Structure:
+---
+
+## MVP File Structure
+```
 MVP/
 │
 ├── models/
@@ -38,7 +43,12 @@ MVP/
 ├── app.js
 ├── package.json
 └── package-lock.json
-MVVM File Structure:
+```
+
+---
+
+## MVVM File Structure
+```
 MVVM/
 │
 ├── models/
@@ -59,3 +69,4 @@ MVVM/
 ├── app.js
 ├── package.json
 └── package-lock.json
+```
